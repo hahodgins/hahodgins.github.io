@@ -1,8 +1,8 @@
-# gitbug
+# I'm trying to learn HTML
 
-sdkjfkjskfsklnfksndsdgnsndskdfdskfjskdjf!
+and also markdown
 
-**faskdjfkjsdfkjsfs**
+-> **does it look like it's going well???** <-
 
-_sghjsdgsf_
+_i think it is..._
 
