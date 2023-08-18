@@ -1,5 +1,4 @@
 
-
 body {
 	background-color: aliceblue;
 }
@@ -9,8 +8,4 @@ h1 {
 p {
 	color: indigo;
 }
-.image2 {
-	position: absolute;
-	left: 400px
-	top: 100px
-}
+
