@@ -2,7 +2,7 @@
 
 and also markdown
 
--> **does it look like it's going well???** <-
+<div align="center"> **does it look like it's going well???** </div>
 
-_i think it is..._
+<div align="center">_i think it is..._</div>
 
